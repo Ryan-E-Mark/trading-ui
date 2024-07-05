@@ -1,0 +1,1 @@
+export type SideType = 'BUY' | 'SELL'
